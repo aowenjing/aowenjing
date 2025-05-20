@@ -52,8 +52,8 @@
 
 <div align="center">
   <a href="https://github.com/aowenjing/SHU_take_out">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aowenjing&repo=SHU-take-out&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aowenjing&repo=SHU_take_out&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+</a>
   <a href="https://github.com/zyh3699/doctopus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aowenjing&repo=PSO-CHPED&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
